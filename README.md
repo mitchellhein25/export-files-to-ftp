@@ -16,4 +16,4 @@ A windows Task was scheduled to run every day at Midnight, and to rerun every 5 
 The program was ran with the following details for the Actions tab of the Task Scheduler:
 
 _Program/Script:_ PowerShell.exe 
-_Add Arguments (optional):_ -windowstyle hidden -ExecutionPolicy Bypass {Path to script\ftp_export_script.ps1
+_Add Arguments (optional):_ -windowstyle hidden -ExecutionPolicy Bypass {Path to script}\ftp_export_script.ps1
